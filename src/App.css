@@ -1,0 +1,10 @@
+.App{
+    text-align: center;
+    display: flex;
+
+}
+img{
+    width: 400px;
+}body{
+    padding: 100px;
+}
